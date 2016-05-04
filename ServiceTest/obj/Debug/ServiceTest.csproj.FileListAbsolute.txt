@@ -1,0 +1,9 @@
+c:\users\student\documents\visual studio 2015\Projects\BlackjackGame\ServiceTest\bin\Debug\ServiceTest.dll
+c:\users\student\documents\visual studio 2015\Projects\BlackjackGame\ServiceTest\bin\Debug\ServiceTest.pdb
+c:\users\student\documents\visual studio 2015\Projects\BlackjackGame\ServiceTest\bin\Debug\BlackjackGame.exe
+c:\users\student\documents\visual studio 2015\Projects\BlackjackGame\ServiceTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\student\documents\visual studio 2015\Projects\BlackjackGame\ServiceTest\bin\Debug\BlackjackGame.pdb
+c:\users\student\documents\visual studio 2015\Projects\BlackjackGame\ServiceTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\student\documents\visual studio 2015\Projects\BlackjackGame\ServiceTest\obj\Debug\ServiceTest.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\BlackjackGame\ServiceTest\obj\Debug\ServiceTest.dll
+c:\users\student\documents\visual studio 2015\Projects\BlackjackGame\ServiceTest\obj\Debug\ServiceTest.pdb

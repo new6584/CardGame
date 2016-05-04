@@ -1,0 +1,46 @@
+c:\users\student\documents\visual studio 2015\Projects\BlackjackGame\BlackjackGame\bin\Debug\BlackjackGame.exe.config
+c:\users\student\documents\visual studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\MainWindow.g.cs
+c:\users\student\documents\visual studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\App.g.cs
+c:\users\student\documents\visual studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame_MarkupCompile.cache
+c:\users\student\documents\visual studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame_MarkupCompile.lref
+c:\users\student\documents\visual studio 2015\Projects\BlackjackGame\BlackjackGame\bin\Debug\BlackjackGame.exe
+c:\users\student\documents\visual studio 2015\Projects\BlackjackGame\BlackjackGame\bin\Debug\BlackjackGame.pdb
+c:\users\student\documents\visual studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\MainWindow.baml
+c:\users\student\documents\visual studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.g.resources
+c:\users\student\documents\visual studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.Properties.Resources.resources
+c:\users\student\documents\visual studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.exe
+c:\users\student\documents\visual studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.pdb
+P:\BlackjackGame\BlackjackGame\BlackjackGame\bin\Debug\BlackjackGame.exe.config
+P:\BlackjackGame\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.exe
+P:\BlackjackGame\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.pdb
+P:\BlackjackGame\BlackjackGame\BlackjackGame\bin\Debug\BlackjackGame.exe
+P:\BlackjackGame\BlackjackGame\BlackjackGame\bin\Debug\BlackjackGame.pdb
+P:\BlackjackGame\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.csprojResolveAssemblyReference.cache
+P:\BlackjackGame\BlackjackGame\BlackjackGame\obj\Debug\MainWindow.g.cs
+P:\BlackjackGame\BlackjackGame\BlackjackGame\obj\Debug\App.g.cs
+P:\BlackjackGame\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame_MarkupCompile.cache
+P:\BlackjackGame\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame_MarkupCompile.lref
+P:\BlackjackGame\BlackjackGame\BlackjackGame\obj\Debug\MainWindow.baml
+P:\BlackjackGame\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.g.resources
+P:\BlackjackGame\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.Properties.Resources.resources
+P:\BlackjackGame\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.csproj.GenerateResource.Cache
+P:\BlackjackGame\BlackjackGame\BlackjackGame\obj\Debug\Views\GameWindow.g.cs
+P:\BlackjackGame\BlackjackGame\BlackjackGame\obj\Debug\Views\GameWindow.baml
+C:\Users\Womble\Documents\Visual Studio 2015\Projects\BlackjackGame\BlackjackGame\bin\Debug\BlackjackGame.exe.config
+C:\Users\Womble\Documents\Visual Studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.exe
+C:\Users\Womble\Documents\Visual Studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.pdb
+C:\Users\Womble\Documents\Visual Studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.csprojResolveAssemblyReference.cache
+C:\Users\Womble\Documents\Visual Studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\MainWindow.g.cs
+C:\Users\Womble\Documents\Visual Studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\Views\GameWindow.g.cs
+C:\Users\Womble\Documents\Visual Studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\App.g.cs
+C:\Users\Womble\Documents\Visual Studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame_MarkupCompile.cache
+C:\Users\Womble\Documents\Visual Studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame_MarkupCompile.lref
+C:\Users\Womble\Documents\Visual Studio 2015\Projects\BlackjackGame\BlackjackGame\bin\Debug\BlackjackGame.exe
+C:\Users\Womble\Documents\Visual Studio 2015\Projects\BlackjackGame\BlackjackGame\bin\Debug\BlackjackGame.pdb
+C:\Users\Womble\Documents\Visual Studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\MainWindow.baml
+C:\Users\Womble\Documents\Visual Studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\Views\GameWindow.baml
+C:\Users\Womble\Documents\Visual Studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.g.resources
+C:\Users\Womble\Documents\Visual Studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.Properties.Resources.resources
+C:\Users\Womble\Documents\Visual Studio 2015\Projects\BlackjackGame\BlackjackGame\obj\Debug\BlackjackGame.csproj.GenerateResource.Cache

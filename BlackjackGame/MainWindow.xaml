@@ -1,0 +1,26 @@
+﻿<Window x:Class="BlackjackGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BlackjackGame"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label x:Name="label" Content="Black Jack Fun" HorizontalAlignment="Left" Margin="219,55,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="PlayernameTextBox" HorizontalAlignment="Left" Height="23" Margin="219,215,0,0" TextWrapping="Wrap" Text="Name" VerticalAlignment="Top" Width="85" TextChanged="PlayernameTextBox_TextChanged" ToolTip="Player Name"/>
+        <Button x:Name="NewGameButton" Content="New game" HorizontalAlignment="Left" Margin="219,243,0,0" VerticalAlignment="Top" Width="85" IsDefault="True" BorderBrush="Black" Background="#FF578774" Foreground="White" Click="NewGameButton_Click"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="127" Margin="219,86,0,0" VerticalAlignment="Top" Width="85" Source="http://deckofcardsapi.com/static/img/AS.png"/>
+        <Image x:Name="image_Copy" HorizontalAlignment="Left" Height="127" Margin="230,90,0,0" VerticalAlignment="Top" Width="85" Source="http://deckofcardsapi.com/static/img/KS.png" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-352.145"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+
+    </Grid>
+</Window>
